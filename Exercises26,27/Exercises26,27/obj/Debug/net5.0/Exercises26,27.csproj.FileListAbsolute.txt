@@ -1,0 +1,16 @@
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\bin\Debug\net5.0\Exercises26,27.exe
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\bin\Debug\net5.0\Exercises26,27.deps.json
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\bin\Debug\net5.0\Exercises26,27.runtimeconfig.json
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\bin\Debug\net5.0\Exercises26,27.runtimeconfig.dev.json
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\bin\Debug\net5.0\Exercises26,27.dll
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\bin\Debug\net5.0\ref\Exercises26,27.dll
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\bin\Debug\net5.0\Exercises26,27.pdb
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\Exercises26,27.csproj.AssemblyReference.cache
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\Exercises26,27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\Exercises26,27.AssemblyInfoInputs.cache
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\Exercises26,27.AssemblyInfo.cs
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\Exercises26,27.csproj.CoreCompileInputs.cache
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\Exercises26,27.dll
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\ref\Exercises26,27.dll
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\Exercises26,27.pdb
+C:\Users\sidma\source\repos\Exercises26,27\Exercises26,27\obj\Debug\net5.0\Exercises26,27.genruntimeconfig.cache
